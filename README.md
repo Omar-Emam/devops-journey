@@ -20,7 +20,7 @@ Planned dates are estimates. They're recalibrated at the end of every stage base
 | 6 | Docker | 15–20 | — | done | ✅ |
 | 7 | Kubernetes | 15–25 | — | done | ✅ |
 | 8 | Ansible | 10–15 | — | done | ✅ |
-| 9 | [AWS](stages/09-aws) | playlist + labs | Thu 26 Nov 2026 (buffer Fri 27) | | 🔄 In progress |
+| 9 | [AWS](stages/09-aws) | playlist ✅ 23 Nov · labs | Thu 26 Nov 2026 (buffer Fri 27) | | 🔄 Labs |
 | 10 | [Git / GitHub](stages/10-git) | 4–6 | ~ early Dec 2026 | | ⏳ |
 | 11 | [Terraform](stages/11-terraform) | 10–14 | ~ late Dec 2026 | | ⏳ |
 | 12 | [CI/CD — Jenkins + GitHub Actions](stages/12-cicd) | 12–18 | ~ mid Jan 2027 | | ⏳ |

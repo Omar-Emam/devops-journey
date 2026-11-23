@@ -7,3 +7,4 @@ Format: `YYYY-MM-DD | stage | minutes | what I did | blockers`
 | Date | Stage | Min | What I did | Blockers |
 |---|---|---|---|---|
 | 2026-11-22 | 09-aws | — | Moved to new mentoring setup; roadmap reviewed; repo created | — |
+| 2026-11-23 | 09-aws | — | Finished the AWS playlist (deadline was Mon 23 Nov — on time). Labs start tonight, a day earlier than planned | — |
