@@ -36,7 +36,7 @@ Put proof for each task in `solutions/`: screenshots in `solutions/screenshots/`
 4. **Permissions:** Modify the "Block Public Access" settings and add a Bucket Policy to make the file publicly readable.
 
 ## Intermediate Tasks
-**Deadline: Thu 26 Nov** (moved from Wed 25 — Task 5 done 25 Nov)
+**Deadline: Sun 29 Nov** (Task 5 done 25 Nov; Tasks 6–7 moved after a short break)
 
 ### Task 5: Load Balancing & Auto Scaling
 1. **Target Group:** Create a Target Group for your EC2 instances.
@@ -63,7 +63,7 @@ Put proof for each task in `solutions/`: screenshots in `solutions/screenshots/`
 > *Note: Logs and custom metrics need the CloudWatch agent installed on the instance.*
 
 ## Advanced Tasks (Real Scenarios)
-**Deadline: Sat 28 Nov** (Task A + B Fri 27, Task C + D Sat 28)
+**Deadline: Tue 1 Dec** (Task A + B Mon 30 Nov, Task C + D Tue 1 Dec)
 
 ### Task A: Deploy a High-Availability Web Server
 1. **Create VPC:** Create a VPC with 2 Public Subnets in different Availability Zones.
